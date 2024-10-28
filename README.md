@@ -8,7 +8,7 @@ I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programmi
 - 🌱 I’m currently learning ...
   - Kotlin
   - HTML
-- 👯 I’m looking to become a great android developer.
+- 🤖📱 I’m looking to become a great android developer.
 - ✔ Ask me about anything, I am happy to help! 🥰<br>
 - Outside tech, 🎮 I love to play videogames, ⚽ practice some sports, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="jvaca1309@gmail.com">jvaca1309@gmail.com</a>

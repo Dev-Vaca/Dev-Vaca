@@ -26,8 +26,8 @@ I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programmi
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 ## Check out my Social Media
-<a href="https://www.instagram.com/juliovacag/"></a>
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/juliovacag/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 

@@ -4,12 +4,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" padding= "10px" width="30px">&nbsp;***About me***
 
 I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Android development, IOS development and Web designing**
+* **I am interested in Android development, IOS development**
 - 🌱 I’m currently learning ...
   - Kotlin
-  - HTML
-- 🤖📱 I’m looking to become a great android developer.
-- ✔ Ask me about anything, I am happy to help! 🥰<br>
+  - Swift
+- 📱 I’m looking to become a great iOS developer.
 - Outside tech, 🎮 I love to play videogames, ⚽ practice some sports, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="jvaca1309@gmail.com">jvaca1309@gmail.com</a>
 
@@ -18,12 +17,14 @@ I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programmi
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=swift&logoColor=white">
 </span>
 
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=xcode&logoColor=white">
 
 ## Check out my Social Media
 <a href="https://www.instagram.com/juliovacag/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>

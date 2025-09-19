@@ -41,7 +41,7 @@ I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programmi
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | Student | [Udemy](https://www.udemy.com/course/desarrollo-de-apps-para-android-con-jetpack-compose-y-kotlin/?couponCode=KEEPLEARNING) | September 2024 - August 2025 |
-| Student | [UDC](https://www.udemy.com/course/desarrollo-de-apps-para-android-con-jetpack-compose-y-kotlin/?couponCode=KEEPLEARNING) |  August 2025 - Present |
+| Student | [UDC](https://telematicanet.ucol.mx) |  August 2025 - Present |
 </h4>  
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)

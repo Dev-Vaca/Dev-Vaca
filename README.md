@@ -24,7 +24,7 @@ I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programmi
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=xcode&logoColor=white">
+<img src="https://img.shields.io/badge/XCode-FF991C?style=for-the-badge&logo=xcode&logoColor=white">
 
 ## Check out my Social Media
 <a href="https://www.instagram.com/juliovacag/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -40,8 +40,8 @@ I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programmi
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Student | [Udemy](https://www.udemy.com/course/desarrollo-de-apps-para-android-con-jetpack-compose-y-kotlin/?couponCode=KEEPLEARNING) | September 2024 - Present |
-
+| Student | [Udemy](https://www.udemy.com/course/desarrollo-de-apps-para-android-con-jetpack-compose-y-kotlin/?couponCode=KEEPLEARNING) | September 2024 - August 2025 |
+| Student | [UDC](https://www.udemy.com/course/desarrollo-de-apps-para-android-con-jetpack-compose-y-kotlin/?couponCode=KEEPLEARNING) |  August 2025 - Present |
 </h4>  
   
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)

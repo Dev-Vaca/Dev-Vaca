@@ -36,7 +36,7 @@ I am an Software Engineering Student at UDC. C, C++ and Kotlin are the programmi
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Vaca&theme=material-palenight)](https://github.com/Dev-Vaca)
 </div>
 
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
+## 🚀 **Experience** :computer_mouse: :desktop_computer: 
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
